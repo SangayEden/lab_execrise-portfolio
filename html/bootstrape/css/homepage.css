@@ -1,0 +1,24 @@
+body {
+    font-family: 'Comic sans', sans-serif;
+    background-color: #f8f9fa;
+}
+
+.hero {
+    background-color: red;
+    border: 1px solid #5272db;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    margin-top: 30px;
+}
+
+.bio {
+    margin-top: 15px;
+    color: #6c757d;
+}
+
+
+
+footer {
+    background-color: #343a40;
+    color: #ffffff;
+}

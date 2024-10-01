@@ -1,0 +1,107 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: lightgray;
+}
+
+section {
+    padding: 60px 0;
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+}
+/* body.dark-mode {
+    background-color: #121212;
+    color: #e1e1e1;
+}
+
+body.dark-mode a {
+    color: #ffffff;
+}
+
+body.dark-mode footer {
+    background-color: #1e1e1e;
+} */
+
+
+.progress-bar {
+    height: 25px;
+}
+
+footer a {
+    color: white;
+}
+
+footer a:hover {
+    color: #007bff;
+}
+
+.card {
+    margin-bottom: 30px;
+}
+
+.img-fluid {
+    width: 150px;
+}
+
+.bio {
+    color: #6c757d;
+}
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 1rem;
+    color: #6c757d;
+}
+
+.card-footer {
+    text-align: center;
+}
+
+.card-footer .btn {
+    width: 100%;
+}
+#contact {
+    background-color: #f8f9fa; /* Light background */
+    padding: 50px 0;
+}
+
+#contact .form-control {
+    border-radius: 0.25rem;
+}
+
+#contact h2 {
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+#contact .btn {
+    font-size: 1.1rem;
+    padding: 10px;
+}
+
+footer i:hover {
+    color: #007bff; /* Change icon color on hover */
+}
+footer a:hover {
+    color: #007bff; /* Change icon color on hover */
+    text-decoration: none; /* Remove underline on hover */
+}
+
+footer i {
+    transition: color 0.3s ease; /* Smooth color transition on hover */
+}
+
